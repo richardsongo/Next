@@ -1,3 +1,7 @@
+
+http://richardsongo.github.io/next
+
+
 # Next.js gh-pages Hello World example
 
 This repository is a gh-pages example build with Next.js
